@@ -7,8 +7,8 @@ I completed the following:
   
 <img width="1200" alt="image" src="https://user-images.githubusercontent.com/25131600/219876596-6715e1d0-afc9-483d-a4e9-3dfc54d00818.png">
 
-3- Generating AWS IAM user: username: cihanmert2075awsbootcamp  and root user: cihanmert2075
-4- Using cloudshell
+3- Generating AWS IAM user: username: cihanmert2075awsbootcamp  and root user: cihanmert2075  
+4- Using cloudshell  
 5- Conceptual Architectual Diagram : https://lucid.app/lucidchart/f4b068af-c150-4d08-a7a3-b82658489d7a/edit?viewport_loc=-615%2C-308%2C2368%2C1160%2C0_0&invitationId=inv_ce858dbb-dba0-44e9-a062-b70d4b2bfec3  
 
 
