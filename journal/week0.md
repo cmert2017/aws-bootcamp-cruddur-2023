@@ -10,6 +10,10 @@ I completed the following:
 3- Generating AWS IAM user: username: cihanmert2075awsbootcamp  and root user: cihanmert2075  
 4- Using cloudshell  
 5- Installed AWS CLI  
+
+<img width="1424" alt="image" src="https://user-images.githubusercontent.com/25131600/219878421-abd1250f-f67d-4131-bb81-de2e2c1a7cd5.png">
+  
+  
 6- Conceptual Architectual Diagram : https://lucid.app/lucidchart/f4b068af-c150-4d08-a7a3-b82658489d7a/edit?viewport_loc=-615%2C-308%2C2368%2C1160%2C0_0&invitationId=inv_ce858dbb-dba0-44e9-a062-b70d4b2bfec3  
 
 
