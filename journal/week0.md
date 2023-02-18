@@ -1,5 +1,5 @@
-# Week 0 — Billing and Architecture
-I completed the following: 
+# Week 0 — Billing and Architecture  
+I completed the following:  
 1- Setting a billing alarm  
 2- Setting a AWS budget  
 3- Generating AWS IAM user: username: cihanmert2075awsbootcamp  
