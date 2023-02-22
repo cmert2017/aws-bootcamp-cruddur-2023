@@ -23,6 +23,6 @@ I completed the following:
 
 
 <img width="823" alt="image" src="https://user-images.githubusercontent.com/25131600/220520840-d23b1eff-5171-4653-a556-2720860d0a6b.png">  
-Note: I couldnt complete the diagram because lucid as seen below.  
+Note: I couldnt complete the diagram because of lucid chart as seen below.  
 
 <img width="1438" alt="Screenshot 2023-02-21 at 23 17 14" src="https://user-images.githubusercontent.com/25131600/220521059-b77b962d-e9e6-4fb4-8fa1-d3003e6ebebc.png">
