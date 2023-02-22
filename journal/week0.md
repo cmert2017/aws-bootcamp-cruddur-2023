@@ -19,3 +19,6 @@ I completed the following:
 
 <img width="842" alt="image" src="https://user-images.githubusercontent.com/25131600/219875479-39494803-5f52-4eb8-938a-37ee6c132129.png">
 
+7- Logical diagram  
+
+<img width="823" alt="image" src="https://user-images.githubusercontent.com/25131600/220520840-d23b1eff-5171-4653-a556-2720860d0a6b.png">
