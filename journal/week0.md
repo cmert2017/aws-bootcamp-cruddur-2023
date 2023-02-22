@@ -26,3 +26,27 @@ I completed the following:
 Note: I couldnt complete the diagram because of lucid chart as seen below.  
 
 <img width="1438" alt="Screenshot 2023-02-21 at 23 17 14" src="https://user-images.githubusercontent.com/25131600/220521059-b77b962d-e9e6-4fb4-8fa1-d3003e6ebebc.png">
+
+8- Created an AWS organization  
+<img width="724" alt="Pasted Graphic 4" src="https://user-images.githubusercontent.com/25131600/220521947-255f02e9-3f30-4b50-bb90-4824ad18830d.png">
+
+9- Enabled AWS Cloud Trail  
+<img width="1432" alt="Pasted Graphic 3" src="https://user-images.githubusercontent.com/25131600/220522039-73a86438-a776-473b-b332-8439c1318563.png">
+
+10- Enable AWS Organisation SCP(Service Control Policies)  
+<img width="1434" alt="Service control policies" src="https://user-images.githubusercontent.com/25131600/220522108-2fef7866-2c3f-4f55-8f2a-79e94bca4411.png">
+
+
+----Challenges----  
+11- Adding MFA to root account  
+<img width="1438" alt="Screenshot 2023-02-20 at 14 02 29" src="https://user-images.githubusercontent.com/25131600/220521741-23161636-c9b7-4835-9842-95560b85fd9d.png">
+
+
+
+
+
+
+
+
+
+
