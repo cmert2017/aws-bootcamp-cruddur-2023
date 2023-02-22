@@ -39,7 +39,17 @@ Note: I couldnt complete the diagram because of lucid chart as seen below.
 
 ----Challenges----  
 11- Adding MFA to root account  
-<img width="1438" alt="Screenshot 2023-02-20 at 14 02 29" src="https://user-images.githubusercontent.com/25131600/220521741-23161636-c9b7-4835-9842-95560b85fd9d.png">
+<img width="1438" alt="Screenshot 2023-02-20 at 14 02 29" src="https://user-images.githubusercontent.com/25131600/220521741-23161636-c9b7-4835-9842-95560b85fd9d.png">  
+
+12- Open a support ticket and request a service limit
+
+
+<img width="1438" alt="Screenshot 2023-02-21 at 23 38 51" src="https://user-images.githubusercontent.com/25131600/220523546-ec29e88a-9f1b-41ba-9d3b-41742ed905bd.png">  
+<img width="1438" alt="Screenshot 2023-02-21 at 23 39 14" src="https://user-images.githubusercontent.com/25131600/220523548-f7c7e556-8cc6-4079-a604-5ef9edd0cbf1.png">  
+
+13- Created EventBridge rule  
+
+<img width="1177" alt="image" src="https://user-images.githubusercontent.com/25131600/220529256-a9297bef-e05e-4281-ac50-b551c7fc9898.png">
 
 
 
