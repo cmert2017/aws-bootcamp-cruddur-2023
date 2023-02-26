@@ -6,3 +6,5 @@ source: https://github.com/cmert2017/aws-bootcamp-cruddur-2023/commits/main
   
 2- Dynamodb  chanllange is done.  
   <img width="1430" alt="image" src="https://user-images.githubusercontent.com/25131600/221444481-4dd60587-c8ee-4253-8f75-47d5cdce88a5.png">
+3- Running Postgres in the app  
+<img width="1432" alt="image" src="https://user-images.githubusercontent.com/25131600/221444590-a533560e-3631-41b6-baa2-0021de71c418.png">
