@@ -35,6 +35,11 @@ Second: When i open the front end in the browser it didnt show the icons as seen
  
 <img width="1290" alt="image" src="https://user-images.githubusercontent.com/25131600/221971795-9b425e60-d720-4c56-ae88-2d40ab8a4b56.png">
  
+4- Pushed and tagged a image to DockerHub
+
+<img width="1287" alt="image" src="https://user-images.githubusercontent.com/25131600/221977813-90d40517-eedd-4eb7-ba13-e401bfa5798b.png">  
+<img width="1429" alt="image" src="https://user-images.githubusercontent.com/25131600/221978028-e688b6a1-e588-4c65-bdb2-1e71a4bfdb59.png">
+
  
 
 
