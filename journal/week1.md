@@ -33,7 +33,7 @@ Second: When i open the front end in the browser it didnt show the icons as seen
  
  3- Implement a healthcheck in the V3 Docker compose file  
  
- <img width="1427" alt="image" src="https://user-images.githubusercontent.com/25131600/221971396-25278e29-f83b-40d8-9040-748546c9e116.png">  
+<img width="1290" alt="image" src="https://user-images.githubusercontent.com/25131600/221971795-9b425e60-d720-4c56-ae88-2d40ab8a4b56.png">
  
  
 
