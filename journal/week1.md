@@ -31,7 +31,12 @@ Second: When i open the front end in the browser it didnt show the icons as seen
  <img width="1281" alt="image" src="https://user-images.githubusercontent.com/25131600/221757649-ce912204-95b1-4fd0-ba19-2e6086742b92.png">  
  here is the commit for this: https://github.com/cmert2017/aws-bootcamp-cruddur-2023/commit/821e8b56183edfe2d2699d3915b17bb82800d8b8  
  
+ 3- Implement a healthcheck in the V3 Docker compose file  
  
+ <img width="1427" alt="image" src="https://user-images.githubusercontent.com/25131600/221971396-25278e29-f83b-40d8-9040-748546c9e116.png">  
+ 
+ 
+
 
  
 
