@@ -29,6 +29,7 @@ Second: When i open the front end in the browser it didnt show the icons as seen
  
  2- I ran both frontend and backend dockerfile's CMD as an external script  
  <img width="1281" alt="image" src="https://user-images.githubusercontent.com/25131600/221757649-ce912204-95b1-4fd0-ba19-2e6086742b92.png">  
+ here is the commit for this: https://github.com/cmert2017/aws-bootcamp-cruddur-2023/commit/821e8b56183edfe2d2699d3915b17bb82800d8b8  
  
  
 
