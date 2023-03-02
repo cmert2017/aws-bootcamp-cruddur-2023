@@ -38,7 +38,13 @@ Second: When i open the front end in the browser it didnt show the icons as seen
 4- Pushed and tagged a image to DockerHub
 
 <img width="1287" alt="image" src="https://user-images.githubusercontent.com/25131600/221977813-90d40517-eedd-4eb7-ba13-e401bfa5798b.png">  
-<img width="1429" alt="image" src="https://user-images.githubusercontent.com/25131600/221978028-e688b6a1-e588-4c65-bdb2-1e71a4bfdb59.png">
+<img width="1429" alt="image" src="https://user-images.githubusercontent.com/25131600/221978028-e688b6a1-e588-4c65-bdb2-1e71a4bfdb59.png">  
+
+5- Launch an EC2 instance that has docker installed, and pull a container to demonstrate you can run your own docker processes.  
+<img width="1403" alt="image" src="https://user-images.githubusercontent.com/25131600/222309670-795736a0-8168-4bff-adf4-ed012922b101.png">  
+<img width="1208" alt="image" src="https://user-images.githubusercontent.com/25131600/222309755-d015b053-a8f0-4131-9f3e-4fb6dc7f2821.png">
+
+
 
  
 
