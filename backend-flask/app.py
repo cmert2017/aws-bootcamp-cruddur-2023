@@ -105,7 +105,7 @@ def data_create_message():
   return
 
 @app.route("/api/activities/home", methods=['GET'])
-@xray_recorder.capture('activities_home')
+#@xray_recorder.capture('activities_home')
 def data_home():
   data = HomeActivities.run()
   return data, 200
@@ -116,7 +116,7 @@ def data_notifications():
   return data, 200
 
 @app.route("/api/activities/@<string:handle>", methods=['GET'])
-@xray_recorder.capture('activities_users')
+#@xray_recorder.capture('activities_users')
 def data_handle(handle):
   model = UserActivities.run(handle)
   if model['errors'] is not None:
@@ -153,7 +153,7 @@ def data_show_activity(activity_uuid):
   return data, 200
 
 @app.route("/api/activities/<string:activity_uuid>/reply", methods=['POST','OPTIONS'])
-@xray_recorder.capture('activities_show')
+#@xray_recorder.capture('activities_show')
 @cross_origin()
 def data_activities_reply(activity_uuid):
   user_handle  = 'andrewbrown'
