@@ -28,7 +28,9 @@ class UserActivities:
         "now" : now.isoformat(),
         "results_size": len(model['data'])
       }
-      segment.put_metadata('key', dict, 'namespace')
-      subsegment.put_annotation('key', 'value')
+     
+      subsegment.put_annotation('user_id', 'cmert')
       xray_recorder.end_subsegment()
+      segment.put_metadata('user_activities_segment', dict, 'my_user_activties_namespace')
+      #xray_recorder.end_segment()
       return model
