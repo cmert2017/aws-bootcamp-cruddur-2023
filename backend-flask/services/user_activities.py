@@ -22,7 +22,7 @@ class UserActivities:
           'expires_at': (now + timedelta(days=31)).isoformat()
         }]
         model['data'] = results
-      subsegment = xray_recorder.begin_subsegment('mock_data')
+      # subsegment = xray_recorder.begin_subsegment('mock_data')
       #xray--------
       # dict = {
       #  "now" : now.isoformat(),
