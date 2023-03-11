@@ -4,5 +4,5 @@
 
 ## 1- Implemented - Postgres and scripts  
 
-![Postgres and scripts](assets/week4_PostgresFinal_2023-03-11%20at%2015.44.30.png)  
+![Postgres and scripts](assets/week4_PostgresFinal_2023-03-11 at 15.44.30.png)  
 
