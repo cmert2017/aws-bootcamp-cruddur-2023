@@ -12,7 +12,10 @@
 5- Implement custom signup page  
 <img width="711" alt="image" src="https://user-images.githubusercontent.com/25131600/224489086-b7fab93b-bec2-4bb6-9a58-1d888e8596d3.png">  
 6- Implement Custom Confirmation Page  
-<img width="1436" alt="image" src="https://user-images.githubusercontent.com/25131600/224488889-2f225468-6962-43a7-a951-ce941acd77bc.png">
+<img width="1436" alt="image" src="https://user-images.githubusercontent.com/25131600/224488889-2f225468-6962-43a7-a951-ce941acd77bc.png">  
+7- Implement Custom Recovery Page  
+<img width="1434" alt="image" src="https://user-images.githubusercontent.com/25131600/224489551-1a5f437e-6ecd-47a7-b0e0-9e99c3c8dac2.png">
+
 
 
 
