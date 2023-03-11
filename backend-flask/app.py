@@ -13,6 +13,7 @@ from services.message_groups import *
 from services.messages import *
 from services.create_message import *
 from services.show_activity import *
+from  lib.cognito_token_verification import CognitoTokenVerification
 
 #HoneyComb----------------------
 from opentelemetry import trace
@@ -68,6 +69,13 @@ tracer = trace.get_tracer(__name__)
 
 app = Flask(__name__)
 
+cognito_token_verification = CognitoTokenVerification(
+  user_pool_id=os.getenv("AWS_COGNITO_USER_POOL_ID"),
+  user_pool_client_id=os.getenv("AWS_COGNITO_USER_POOL_CLIENT_ID"),
+  region=os.getenv("AWS_DEFAULT_REGION"),
+)
+
+
 #X-RAY-----------------------------
 # XRayMiddleware(app, xray_recorder)
 
@@ -87,6 +95,15 @@ cors = CORS(
   allow_headers="content-type,if-modified-since",
   methods="OPTIONS,GET,HEAD,POST"
 )
+cors = CORS(
+  app, 
+  resources={r"/api/*": {"origins": origins}},
+  headers=['Content-Type', 'Authorization'], 
+  expose_headers='Authorization',
+  methods="OPTIONS,GET,HEAD,POST"
+)
+
+
 
 #rollbar-----------
 rollbar_access_token = os.getenv('ROLLBAR_ACCESS_TOKEN')
@@ -157,6 +174,12 @@ def data_create_message():
 @app.route("/api/activities/home", methods=['GET'])
 # @xray_recorder.capture('activities_home')
 def data_home():
+  
+  #app.logger.debug("AUTH HEADER")
+  #app.logger.debug(
+  #  request.headers.get('Authorization')
+  #)
+  
   # data = HomeActivities.run(logger=LOGGER)
   data = HomeActivities.run()
   return data, 200
