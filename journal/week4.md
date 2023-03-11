@@ -4,5 +4,5 @@
 
 ## 1- Implemented - Postgres and scripts  
 
-![Postgres and scripts](assets/week4_PostgresFinal_2023-03-11 at 15.44.30.png)  
+![Postgres and scripts](https://github.com/cmert2017/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/week4_PostgresFinal_2023-03-11%20at%2015.44.30.png)  
 
