@@ -32,8 +32,5 @@ The `/journal` directory contains
 - [ ] [Week 12](journal/week12.md)
 - [ ] [Week 13](journal/week13.md)
 
-export HONEYCOMB_API_KEY="3MQf2OPerPQaXATTwQeKoQ"
-go env HONEYCOMB_API_KEY="3MQf2OPerPQaXATTwQeKoQ"
-
 
 
