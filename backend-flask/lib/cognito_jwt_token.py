@@ -1,5 +1,3 @@
-HTTP_HEADER = "Authorization"
-
 import time
 import requests
 from jose import jwk, jwt
@@ -13,6 +11,14 @@ class FlaskAWSCognitoError(Exception):
 
 class TokenVerifyError(Exception):
     pass
+
+    # @classmethod
+def extract_access_token(request_headers):
+    access_token = None
+    auth_header = request_headers.get("Authorization")
+    if auth_header and " " in auth_header:
+        _, access_token = auth_header.split()
+        return access_token
 
 
 class CognitoJwtToken:
@@ -29,13 +35,6 @@ class CognitoJwtToken:
             self.request_client = request_client
         self._load_jwk_keys()
 
-    @classmethod
-    def extract_access_token(request_headers):
-        access_token = None
-        auth_header = request_headers.get(HTTP_HEADER)
-        if auth_header and " " in auth_header:
-            _, access_token = auth_header.split()
-        return access_token
 
 
 
@@ -118,3 +117,4 @@ class CognitoJwtToken:
         self._check_audience(claims)
 
         self.claims = claims
+        return claims

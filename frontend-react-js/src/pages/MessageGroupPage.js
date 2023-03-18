@@ -72,7 +72,7 @@ export default function MessageGroupPage() {
     loadMessageGroupsData();
     loadMessageGroupData();
     checkAuth();
-  }, [])
+  }, [loadMessageGroupData])
   return (
     <article>
       <DesktopNavigation user={user} active={'home'} setPopped={setPopped} />
