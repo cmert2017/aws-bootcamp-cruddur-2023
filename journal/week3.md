@@ -23,7 +23,15 @@
 
 ## 7- Implement Custom Recovery Page  
 <img width="1434" alt="image" src="https://user-images.githubusercontent.com/25131600/224489551-1a5f437e-6ecd-47a7-b0e0-9e99c3c8dac2.png">  
-<img width="728" alt="image" src="https://user-images.githubusercontent.com/25131600/224489662-de5e285c-5dc4-49a8-8f28-661a58886641.png">
+<img width="728" alt="image" src="https://user-images.githubusercontent.com/25131600/224489662-de5e285c-5dc4-49a8-8f28-661a58886641.png">  
+
+## 8- Implement backend check for token  
+note: I'm using my local because I dont have gitpod credits for now. 
+<img width="1434" alt="image" src="https://user-images.githubusercontent.com/25131600/226186924-d99deaba-c005-47de-bacf-e3fcf20374dc.png">  
+<img width="1433" alt="image" src="https://user-images.githubusercontent.com/25131600/226186989-a7016335-e768-4833-9afb-f3453789eb2a.png">
+
+
+
 
 
 
