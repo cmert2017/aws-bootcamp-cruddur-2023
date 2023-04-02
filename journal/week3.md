@@ -28,7 +28,12 @@
 ## 8- Implement backend check for token  
 note: I'm using my local because I dont have gitpod credits for now. 
 <img width="1434" alt="image" src="https://user-images.githubusercontent.com/25131600/226186924-d99deaba-c005-47de-bacf-e3fcf20374dc.png">  
-<img width="1433" alt="image" src="https://user-images.githubusercontent.com/25131600/226186989-a7016335-e768-4833-9afb-f3453789eb2a.png">
+<img width="1433" alt="image" src="https://user-images.githubusercontent.com/25131600/226186989-a7016335-e768-4833-9afb-f3453789eb2a.png">  
+
+## 9- Improve UI changes. Setup theme css variables. 
+
+<img width="1303" alt="image" src="https://user-images.githubusercontent.com/25131600/229373887-ac3285f0-1698-4a12-bcf8-dd2991e85d5a.png">
+
 
 
 
