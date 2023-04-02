@@ -32,7 +32,9 @@ note: I'm using my local because I dont have gitpod credits for now.
 
 ## 9- Improve UI changes. Setup theme css variables. 
 
-<img width="1303" alt="image" src="https://user-images.githubusercontent.com/25131600/229373887-ac3285f0-1698-4a12-bcf8-dd2991e85d5a.png">
+<img width="1303" alt="image" src="https://user-images.githubusercontent.com/25131600/229373887-ac3285f0-1698-4a12-bcf8-dd2991e85d5a.png">  
+<img width="1423" alt="image" src="https://user-images.githubusercontent.com/25131600/229373944-d0ebe118-419a-4546-8761-145a11e6a1d9.png">
+
 
 
 
