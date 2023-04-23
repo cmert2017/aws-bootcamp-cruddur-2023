@@ -1,3 +1,8 @@
 #! /usr/bin/bash
 
+RED='\033[1;35m'
+NO_COLOR='\033[0m'
+LABEL="db-connect"
+printf "${RED}${LABEL}${NO_COLOR}\n"
+
 psql $CONNECTION_URL
